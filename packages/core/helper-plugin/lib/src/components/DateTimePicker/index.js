@@ -174,7 +174,7 @@ DateTimePicker.defaultProps = {
   onClear: undefined,
   required: false,
   size: 'M',
-  step: 1,
+  step: 30,
   value: undefined,
 };
 
